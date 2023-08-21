@@ -3,5 +3,6 @@
 Github lecture
 
 
-Hi, this is Jarryd \n
+Hi, this is Jarryd 
+
 Hi, this is Matthew!
